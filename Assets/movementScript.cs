@@ -1,6 +1,8 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+// need to put a collision check but it may be 2:45am so I'll do that later
+
+public class movementScript : MonoBehaviour
 {
     public float moveSpeed = 5f;
 
