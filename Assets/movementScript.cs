@@ -29,6 +29,10 @@ public class movementScript : MonoBehaviour
             {
                 moving = false;
             }
+        } else
+        {
+            targetPos = transform.position;
+
         }
     }
 }
